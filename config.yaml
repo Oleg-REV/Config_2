@@ -1,0 +1,4 @@
+graphviz_path: "./graphviz/bin/dot.exe"
+package_name: "libopencv_core"
+output_path: "./dependency_graph.png"
+max_depth: 3
